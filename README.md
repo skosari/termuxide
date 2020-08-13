@@ -29,5 +29,5 @@
   * When you modify a file you must save it in your ide and upload it back into the termux root directory. Some IDEs do not have sftp capability - I use  [Turbo Client](https://play.google.com/store/apps/details?id=turbo.client) for these editors but it requires the extra step of going back to turbo client to upload
   * [Code Editor](https://play.google.com/store/apps/details?id=com.rhmsoft.code) does not require sftp at all and you can access termux files using the Open (saf) option and navigating to Termux 
   * [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acode) is also a capable editor 
-  * At the time of this writing [I\<code\> Go](https://play.google.com/store/apps/developer?id=TwoSevenTwo+Development) unfortunatley is no longer with us.......rip (my favorite android ide) :'(
+  * At the time of this writing [I\<code\> Go](https://play.google.com/store/apps/developer?id=TwoSevenTwo+Development) unfortunatley is no longer with us.......rip _my favorite android ide_ :'( <img src='https://dl1.cbsistatic.com/i/2019/06/10/2edbc819-b1ca-4d82-bd05-280579e09e71/3944ca6412e93e6c89648125b36fdafa/imgingest-7322281283442131209.png' width='50'>
       
